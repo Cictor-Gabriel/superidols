@@ -12,7 +12,7 @@ class ImageScreen extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             Image.asset(
-              'images/img.png',
+              'images/super-idol.gif',
               width: 400,
               height: 400,
             ),
